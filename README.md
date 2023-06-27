@@ -5,9 +5,9 @@ I'm a **data analyst** with an extensive background in **research and medicine**
 
 * Master's degree in research 🔬 <br>
 * Loads of experience in health care 🩺 <br>
-* Genuinely love to clean, organize, and explore data 📊 
+* Genuine passion for cleaning, organizing, and exploring data 📊 
 
-My favorite software/languages are **Tableau SQL, and Excel**. <br>
+My favorite software/languages are **Tableau, SQL, and Excel**. <br>
 
 <i>(I'm also good with French, Russian, and German!)</i>
 
