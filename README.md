@@ -1,16 +1,20 @@
-### Hi there 👋
+## ✨ Hi, I'm Alexa! ✨
 
-<!--
-**akrasnogorska/akrasnogorska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a **data analyst** with an extensive background in **research and medicine**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Master's degree in research 🔬 <br>
+* Loads of experience in health care 🩺 <br>
+* Genuinely love to clean, organize, and explore data 📊 
+
+My favorite software/languages are **Tableau SQL, and Excel**. <br>
+
+<i>(I'm also good with French, Russian, and German!)</i>
+
+
+## Let's Connect 😊
+
+- <a href="https://www.linkedin.com/in/alexandraburdewick/">LinkedIn</a>
+- <a href="https://public.tableau.com/app/profile/alexandra.krasnogorska">Tableau</a> 
+
+<b>
