@@ -1,6 +1,8 @@
 ## ✨ Hi, I'm Alexa! ✨
 
 
+<img align="right" width="300" height="auto" src="https://github.com/akrasnogorska/akrasnogorska/blob/main/Alexa_Research.png?raw=true">
+
 I'm a **data analyst** with an extensive background in **research and medicine**. 
 
 * Master's degree in research 🔬 <br>
