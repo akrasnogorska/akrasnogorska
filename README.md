@@ -1,4 +1,4 @@
-## ✨ "hello, world" ✨
+## "hello, world" 
 ### I'm Alexa. :]
 
 I'm a **data analyst** with an extensive background in **research and medicine**. 
