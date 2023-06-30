@@ -1,13 +1,10 @@
 ## ✨ Hi, I'm Alexa! ✨
 
-
-<img align="right" width="300" height="auto" src="https://github.com/akrasnogorska/akrasnogorska/blob/main/Alexa_Research.png?raw=true">
-
 I'm a **data analyst** with an extensive background in **research and medicine**. 
 
-* Master's degree in research 🔬 <br>
+* Genuine passion for cleaning, organizing, and exploring data 📊 <br>
 * Loads of experience in health care 🩺 <br>
-* Genuine passion for cleaning, organizing, and exploring data 📊 
+* Master's degree in research 🔬 <br>
 
 My favorite software/languages are **Tableau, SQL, and Excel**. <br>
 
